@@ -1,0 +1,6 @@
+# KiCad
+~*.lck
+fp-info-cache
+*-backups/
+*.kicad_pcb-bak
+*.sch-bak

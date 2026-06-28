@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name CoreMem)(type KiCad)(uri ${KIPRJMOD}/CoreMem.pretty)(options "")(descr ""))
+)

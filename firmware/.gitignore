@@ -1,0 +1,15 @@
+*.pyc
+__pycache__
+build
+.ipynb_checkpoints/
+results.xml
+
+*.vcd
+verilog/CoreMem.*
+
+# bitstream build artifacts
+bitstream/CoreMem.json
+bitstream/CoreMem.asc
+bitstream/CoreMem.bin
+bitstream/synth.log
+bitstream/pnr.log
